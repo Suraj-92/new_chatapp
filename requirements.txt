@@ -27,7 +27,7 @@ msgpack==0.6.1
 oauthlib==3.0.1
 plumber==1.5
 psycopg2==2.7.7
-psycopg2-binary==2.7.7
+psycopg2-binary==2.8.6
 pycparser==2.19
 PyHamcrest==1.9.0
 PyJWT==1.7.1
